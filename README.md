@@ -1,7 +1,7 @@
 # intro2iot-lab12
 
-##Update April 22nd, 2025
-###Corected functionality of light sensor and button switch.
+## Update April 22nd, 2025
+### Corected functionality of light sensor and button switch.
 
 Dawson College - Electronics Engineering Department
 
