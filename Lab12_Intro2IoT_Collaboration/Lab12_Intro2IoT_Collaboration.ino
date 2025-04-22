@@ -53,10 +53,12 @@ bool isButtonActivated() {
   // Button is normally HIGH
   if (state == HIGH) {
     // Button not pressed
-    return true;
+    Serial.println("OFF");
+    return false;
   } else {
     // Button pressed
-    return false;
+    return true;
+    Serial.println("ON");
   }
 
   // HINT: Serial.print should say "ON" or "OFF" too
